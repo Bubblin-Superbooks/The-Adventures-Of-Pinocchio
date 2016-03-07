@@ -537,6 +537,10 @@ body {
   color: #f00;
 }
 
+h1 {
+  font-size: 16vw;
+  font-family: 'Amatic SC', sans-serif;
+}
 p {
   margin: 0;
 }
