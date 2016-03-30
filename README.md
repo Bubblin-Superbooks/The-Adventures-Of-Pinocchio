@@ -1,23 +1,23 @@
 <div align="center">
   <h1>The-Adventures-Of-Pinocchio</h1>
   <p>by</p>
-  <h2> Carlo Collodi and <font color="red">The Web</font> </h2>
+  <h2> Carlo Collodi and The Web</h2>
 </div>
 
-First of its kind, this book uses only the *building blocks* to bring adorable Adventures of Pinocchio to web. No flashy gimmicks, no stupid gamification. Just a book in HTML. Straight on the web. 
+First of its kind, this book uses only the *building blocks of web* to bring adorable Adventures of Pinocchio online. No flashy gimmicks, no stupid gamification. Just a book. Straight on the web. 
 
 `Support`: It's supported everywhere - iPads, iPhones, Android Phones & tablets, Kindle, Desktops, TVs. 
 
 ## Superbook
-The book is live: [Adventures of Pinocchio](https://bubbl.in/cover/pinocchio-by-marvin-danig/)
+Project is live here: [Adventures of Pinocchio](https://bubbl.in/cover/pinocchio-by-marvin-danig/)
 
 It is best experienced on the latest iPads. Slight frame rate quirks might occur on Android tablets due to the hacky use of CSS3 animations. Just for the fun of it.
 
 ## Contribute, Hack or Host 
 
-This is an open book-in-the-making for the web. 
+This is an open source book-in-the-making for the web. Feel free to hop in and contribute! 
 
-Feel free to hop in and contribute! Reach out for [Marvin Danig](https://twitter.com/marvindanig) if you need any help.
+Reach out for [Marvin Danig](https://twitter.com/marvindanig) if you need any help with set up.
 
 ## Setup
 
@@ -31,7 +31,7 @@ $ bookiza server
 
 ```
 
-Opens at `localhost:4567`.
+Opens the book at `localhost:4567`.
 
 
 ## The Project
