@@ -1,6 +1,8 @@
--> # The-Adventures-Of-Pinocchio <-
--> by <-
--> ## Carlo Collodi and The Web <-
+<p align="center">
+# The-Adventures-Of-Pinocchio 
+by 
+## Carlo Collodi and The Web 
+</p>
  
 First of its kind, this book uses only the *building blocks* to bring adorable Adventures of Pinocchio to web. No flashy gimmicks, no stupid gamification. Just a book in HTML. Straight on the web. 
 
