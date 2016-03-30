@@ -1,7 +1,7 @@
 <div align="center">
   <h1>The-Adventures-Of-Pinocchio</h1>
   <p>by</p>
-  <h2> Carlo Collodi and The Web </h2>
+  <h2> Carlo Collodi and <span style="color: #f00;">The Web</span> </h2>
 </div>
 
 First of its kind, this book uses only the *building blocks* to bring adorable Adventures of Pinocchio to web. No flashy gimmicks, no stupid gamification. Just a book in HTML. Straight on the web. 
@@ -35,7 +35,7 @@ Opens at `localhost:4567`.
 
 
 ## The Project
-This book was generated with [bookiza](https://bookiza.io) -- the "book reification" framework. 
+The source below was generated from [Adventures of Pinocchio](http://www.gutenberg.org/files/500/500-h/500-h.htm) at Gutenberg.org using the [bookiza](https://bookiza.io) framework and [parmesan](https://github.com/marvindanig/parmesan). 
 
 The TREE of the manuscript looks somewhat like this:
 
