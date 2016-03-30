@@ -32,14 +32,14 @@ body {
 }
 
 .pinocchio{
-  height:45vh;
   width:100%;
+  margin:10vh 0;
 }
 
 .wrap {
   width: 60vw;
-  height: 47.4vw;
-  margin: 20vh auto;
+  height: 50vw;
+  margin: 10vh auto 0;
   position: relative;
   top:30vh;
   cursor: pointer;
