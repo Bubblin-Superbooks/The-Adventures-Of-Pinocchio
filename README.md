@@ -1,7 +1,7 @@
 <div align="center">
   <h1>The-Adventures-Of-Pinocchio</h1>
   <p>by</p>
-  <h2> Carlo Collodi and <span style="color: #f00;">The Web</span> </h2>
+  <h2> Carlo Collodi and <span style='color:red'>The Web</span> </h2>
 </div>
 
 First of its kind, this book uses only the *building blocks* to bring adorable Adventures of Pinocchio to web. No flashy gimmicks, no stupid gamification. Just a book in HTML. Straight on the web. 
