@@ -1,25 +1,25 @@
-<p align="center">
-# The-Adventures-Of-Pinocchio 
-by 
-## Carlo Collodi and The Web 
-</p>
- 
+<div align="center">
+  <h1>The-Adventures-Of-Pinocchio</h1>
+  <p>by</p>
+  <h2> Carlo Collodi and The Web </h2>
+</div>
+
 First of its kind, this book uses only the *building blocks* to bring adorable Adventures of Pinocchio to web. No flashy gimmicks, no stupid gamification. Just a book in HTML. Straight on the web. 
 
 `Support`: It's supported everywhere - iPads, iPhones, Android Phones & tablets, Kindle, Desktops, TVs. 
 
-# Superbook
+## Superbook
 The book is live: [Adventures of Pinocchio](https://bubbl.in/cover/pinocchio-by-marvin-danig/)
 
 It is best experienced on the latest iPads. Slight frame rate quirks might occur on Android tablets due to the hacky use of CSS3 animations. Just for the fun of it.
 
-# Contribute, Hack or Host 
+## Contribute, Hack or Host 
 
 This is an open book-in-the-making for the web. 
 
 Feel free to hop in and contribute! Reach out for [Marvin Danig](https://twitter.com/marvindanig) if you need any help.
 
-# Setup
+## Setup
 
 You're going to need Node v5.1.0 or above, [bookiza](http://bookiza.io) v0.12 and [Gulp](http://gulpjs.com/) to bootstrap the book on your local:
 
