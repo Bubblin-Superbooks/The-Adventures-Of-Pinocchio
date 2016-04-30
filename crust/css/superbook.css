@@ -605,6 +605,16 @@ body {
   width: 44px;
 }
 
+.fa-angle-left {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.fa-angle-right {
+  margin-left: auto;
+  margin-right: 0;
+}
+
 /* line 538, /Users/admin/projects/RoR/bubblin/app/assets/stylesheets/scss/_book.scss */
 #controls #ui-icon-zoom {
   position: relative;
