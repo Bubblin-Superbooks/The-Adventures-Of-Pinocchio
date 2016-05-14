@@ -1,5 +1,16 @@
 body {
-    font: 3.0vw/1.0 "PT Sans Narrow", sans-serif;
+    font: 3.0vw/1.1 "PT Sans Narrow", sans-serif;
+}
+
+.leaf {
+    height: 100vh;
+    width: 80%;
+    margin: auto;
+}
+
+.inner {
+    margin: 15% auto;
+    width: 100%;
 }
 
 h1 {
@@ -12,7 +23,7 @@ ul {
 }
 
 ul li {
-    line-height: 3vw;
+    line-height: 3.5vw;
     list-style: outside none none;
     margin: 0;
 }

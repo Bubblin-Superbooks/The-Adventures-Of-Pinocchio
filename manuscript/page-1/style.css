@@ -4,12 +4,6 @@ body {
   font-size: 10vw;
 }
 
-.inner {
-    margin: 10% auto;
-    width: 100%;
-    padding: 0;
-}
-
 .l-eye::before,
 .r-eye::before,
 .l-browse::before,
@@ -309,7 +303,7 @@ body {
   width: 32vw;
   height: 21.5vw;
   background: -webkit-radial-gradient(26vw 21vw, circle cover, #d25503 0%, #d25503 68%, #222222 68%, #222222 69%, #3b586a 69%, #3b586a 75%, #222222 75%, #222222 75.5%, #d25503 75.5%, #d25503 100%);
-  background: -moz-radial-gradient(26vw 21vw, circle cover, #d25503 0%, #d25503 68%, #222222 68%, #222222 69%, #3b586a 69%, #3b586a 75%, #222222 75%, #222222 75.5%, #d25503 75.5%, #d25503 100%);
+  background: -moz-radial-gradient(26vw 21vw, circle cover, #d25503 0%, #d25503 68%, #222222 68%, #222222 69%, #3b586a 69%, #3b586a 75%, #222222 75%, #222222 75.5%, #d25503 75.5%, #d25503 100%);  
   position: relative;
   top: 5.5%;
   left: 12%;
