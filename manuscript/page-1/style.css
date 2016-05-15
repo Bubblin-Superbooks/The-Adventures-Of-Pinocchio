@@ -471,7 +471,7 @@ body {
 
 .feather {
   position: absolute;
-  z-index: -1;
+  z-index: 1;
   width: 11vw;
   height: 4vw;
   top: 3%;

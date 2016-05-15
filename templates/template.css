@@ -1,11 +1,4 @@
-@import url('//fonts.googleapis.com/css?family=Source+Serif+Pro|Josefin+Sans|Amatic+SC:400,700');
-
-html {
-  height:100vh;
-  width:100vw;
-}
-
-body {
+html, body {
   background: #fff;
   margin: 0 0;
   overflow: hidden;
@@ -36,10 +29,6 @@ h6 {
     padding: 0;
 }
 
-
-p {
-  margin: 3vw 0;
-}
 
 img {
   border: 0;
@@ -89,54 +78,8 @@ a:active {
   text-align: justify;
 }
 
-
-
 p {
-    margin: 2vw 0;
-}
-
-.leaf {
-    height: 100vh;
-    width: 80%;
-    margin: auto;
-}
-
-.inner {
-    margin: 10% auto;
-    width: 100%;
-}
-
-.flex {
-    display: -webkit-box;
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
-}
-
-.justify {
-    text-align: justify;
-}
-
-.center {
-    text-align: center;
-}
-
-.small {
-    font-size: 80%;
-}
-
-a {
-    color: #090;
-    outline: 0 none;
-    text-decoration: none;
-    text-rendering: optimizelegibility;
-}
-
-a:focus,
-a:active,
-a:hover {
-    outline: 0 none;
-    color: #0cf;
+    margin: 3vw 0;
 }
 
 blockquote {

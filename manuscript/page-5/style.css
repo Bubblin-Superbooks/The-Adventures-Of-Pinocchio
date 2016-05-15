@@ -1,5 +1,5 @@
 body {
-    font: 3.0vw/1.1 "PT Sans Narrow", sans-serif;
+    font: 2.55vw/1 "PT Sans Narrow", sans-serif;
 }
 
 .leaf {
@@ -9,12 +9,13 @@ body {
 }
 
 .inner {
-    margin: 15% auto;
+    margin: 10% auto;
     width: 100%;
 }
 
 h1 {
-    font: 6vw/1.05 'Crimson Text', serif;
+    font: 6vw/1.05 'Luckiest Guy', serif;
+    text-transform: uppercase;
 }
 
 ul {
@@ -23,7 +24,7 @@ ul {
 }
 
 ul li {
-    line-height: 3.5vw;
+    line-height: 2.5vw;
     list-style: outside none none;
     margin: 0;
 }
@@ -45,8 +46,8 @@ a {
 }
 
 a:hover {
-    background: hsla(90, 70%, 30%, .1);
-    color: #090;
+    background: #d24349;
+    color: #fff;
     float: left;
     width: 90%;
     clear: both;
