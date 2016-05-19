@@ -38,21 +38,22 @@ a {
     color: #333;
     margin: 1px 0;
     padding: 1.5% 5%;
-    -webkit-border-radius: 1vw;
-    -moz-border-radius: 1vw;
-    -o-border-radius: 1vw;
-    -ms-border-radius: 1vw;
-    border-radius: 1vw;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    -o-border-radius: 1px;
+    -ms-border-radius: 1px;
+    border-radius: 1px;
 }
 
 a:hover {
-    background: #d24349;
-    color: #fff;
+    background: hsla(10, 70%, 80%, 1);
+    color: #000;
     float: left;
     width: 90%;
     clear: both;
     text-decoration: none;
     cursor: pointer;
+    text-shadow: none;
 }
 
 a span {
